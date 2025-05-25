@@ -29,7 +29,7 @@ pip install SpeechRecognition pyttsx3 pyaudio
 ## 🚀 How to Use
 
 ```bash
-python emergency_assistant.py
+python voice_assistance_for_elderly.ipynb
 ```
 
 ### 🎙️ Sample Commands
