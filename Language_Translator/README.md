@@ -66,7 +66,7 @@ README.md
 
 ## 👨‍💻 Author
 
-Created by [Your Name] to break language barriers with voice and code. 🌐🧠🔊
+Created by Harshavardhan.V to break language barriers with voice and code. 🌐🧠🔊
 
 ---
 
