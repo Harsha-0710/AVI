@@ -55,7 +55,7 @@ pip install SpeechRecognition pyttsx3 pyaudio
 ## 📂 File Structure
 
 ```
-smart_home_voice_control.py
+Voice_assisted_home_appliance.ipynb
 README.md
 ```
 
