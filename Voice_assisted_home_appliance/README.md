@@ -67,7 +67,7 @@ README.md
 
 ## 👨‍💻 Author
 
-Built by [Your Name] – a Smart Home enthusiast. 😊
+Built by Harshavardhan.V – a Smart Home enthusiast. 😊
 
 ---
 
