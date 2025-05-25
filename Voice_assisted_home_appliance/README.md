@@ -33,7 +33,7 @@ pip install SpeechRecognition pyttsx3 pyaudio
 
 1. Run the script:
     ```bash
-    python smart_home_voice_control.py
+    python Voice_assisted_home_appliance.ipynb
     ```
 2. Speak commands like:
     - "Lights on"
