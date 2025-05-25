@@ -68,7 +68,7 @@ README.md
 
 ## 👨‍💻 Author
 
-Developed by [Your Name] – making everyday safety and productivity easier with Python and voice technology. 🎤🧠📅
+Developed by Harshavardhan.V – making everyday safety and productivity easier with Python and voice technology. 🎤🧠📅
 
 ---
 
