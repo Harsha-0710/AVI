@@ -29,7 +29,7 @@ pip install SpeechRecognition pyttsx3 googletrans==4.0.0-rc1 pyaudio
 ## 🚀 How to Run
 
 ```bash
-python voice_translator.py
+Language_translator.ipynb
 ```
 
 ### 🧪 Sample Input
@@ -54,7 +54,7 @@ All languages supported by Google Translate (like Tamil, Hindi, English, French,
 ## 📂 File Structure
 
 ```
-Language_Translator.py
+Language_translator.ipynb
 README.md
 ```
 
