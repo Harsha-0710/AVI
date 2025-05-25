@@ -54,7 +54,7 @@ All languages supported by Google Translate (like Tamil, Hindi, English, French,
 ## 📂 File Structure
 
 ```
-voice_translator.py
+Language_Translator.py
 README.md
 ```
 
