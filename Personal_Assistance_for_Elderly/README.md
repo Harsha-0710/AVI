@@ -56,7 +56,7 @@ python emergency_assistant.py
 ## 📂 File Structure
 
 ```
-emergency_assistant.py
+voice_assistance_for_elderly.ipynb
 README.md
 ```
 
